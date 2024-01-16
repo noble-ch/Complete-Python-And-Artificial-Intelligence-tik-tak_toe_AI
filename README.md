@@ -1,5 +1,9 @@
 # Tic-Tac-Toe Game with AI Opponent
 
+<div style="text-align:center;">
+  <img src="Screenshot%20from%202024-01-17%2001-33-31.png" alt="Alt Text">
+</div>
+
 A classic Tic-Tac-Toe game where you can challenge yourself against an AI opponent that leverages the powerful Minimax algorithm for strategic moves.
 
 ## How to Play
